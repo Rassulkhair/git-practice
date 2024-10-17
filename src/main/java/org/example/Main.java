@@ -8,5 +8,7 @@ public class Main {
 
         Cat cat = new Cat();
         cat.jump();
+
+        System.out.println("code");
     }
 }
