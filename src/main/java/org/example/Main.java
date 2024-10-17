@@ -5,5 +5,8 @@ public class Main {
         int a = 10;
         int b = 15;
         System.out.println(a + b);
+
+        Cat cat = new Cat();
+        cat.jump();
     }
 }
